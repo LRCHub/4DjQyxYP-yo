@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "GATE〜それは暁のように〜",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2025-12-17T06:02:42.936714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GATE~それは暁のように~",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/01_GATE~それは暁のように~_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GATE～それは暁のように～",
+      "artist": "Kishida Kyoudan & The Akeboshi Rockets",
+      "has_synced": true,
+      "path": "select/02_GATE~それは暁のように~_Kishida_Kyoudan_&_The_Akeboshi_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GATE〜それは暁のように〜",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/03_GATE〜それは暁のように〜_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GATE～それは暁のように～",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/04_GATE~それは暁のように~_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GATE〜それは暁のように〜 (アニメ『ゲート 自衛隊 彼の地にて、斯く戦えり』OP)",
+      "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
+      "has_synced": true,
+      "path": "select/05_GATE〜それは暁のように〜_(アニメ『ゲート_自衛隊_彼の地にて、斯く戦えり』OP)_KISIDA_KYODAN_&_THE_AKEBOSI_ROCKETS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GATE〜それは暁のように〜",
+      "artist": "岸田教団＆THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/06_GATE〜それは暁のように〜_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GATE〜それは暁のように〜 (アニメ『ゲート 自衛隊 彼の地にて、斯く戦えり』OP) - GATE - Soreha akatsukinoyouni",
+      "artist": "KISIDA KYODAN",
+      "has_synced": true,
+      "path": "select/07_GATE〜それは暁のように〜_(アニメ『ゲート_自衛隊_彼の地にて、斯く戦えり』OP)_-_GATE_-_Soreha_akatsukinoyouni_KISIDA_KYODAN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1. GATE〜それは暁のように〜",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/08_1._GATE〜それは暁のように〜_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GATE〜それは暁のように〜",
+      "artist": "Kishida Kyōdan & the Akeboshi Rockets [岸田教団＆THE明星ロケッツ]",
+      "has_synced": true,
+      "path": "select/09_GATE〜それは暁のように〜_Kishida_Kyōdan_&_the_Akeboshi_Rockets_[岸田教団&THE明星ロケッツ].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GATE ～それは暁のように～",
+      "artist": "岸田教団 & The 明星ロケッツ",
+      "has_synced": true,
+      "path": "select/10_GATE_~それは暁のように~_岸田教団_&_The_明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GATE〜それは暁のように〜 (アニメ『ゲート 自衛隊 彼の地にて、斯く戦えり』OP) - GATE - Soreha akatsukinoyouni",
+      "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
+      "has_synced": true,
+      "path": "select/11_GATE〜それは暁のように〜_(アニメ『ゲート_自衛隊_彼の地にて、斯く戦えり』OP)_-_GATE_-_Soreha_akatsukinoyouni_KISIDA_KYODAN_&_THE_AKEBOSI_ROCKETS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "GATE ~それは暁のように~",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/12_GATE_~それは暁のように~_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GATE～それは暁のように～",
+      "artist": "岸田教団 & THE 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_GATE~それは暁のように~_岸田教団_&_THE_明星ロケッツ.txt"
+    }
+  ]
+}
